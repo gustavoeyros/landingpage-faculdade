@@ -1,0 +1,195 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    scroll-behavior: smooth;
+}
+a{
+    text-decoration: none;
+    color: #387d7a;
+}
+.wrapper{
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    position: absolute;
+}
+
+.menu{
+    margin: 0;
+    height: 125px;
+    background-color: white;
+    font-size: 32px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    color: #387d7a;
+}
+.rodape{
+    margin: 0;
+    height: 50px;
+    background-color: white;
+    font-size: 32px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    color: #387d7a;
+}
+.rodape h1{
+    font-size: 10px;
+    letter-spacing: 15px;
+}
+.rodape a{
+    text-decoration: none;
+    color: #2bc016;
+}
+h1{
+    font-size: 1em;
+    color: #2bc016;
+    font-family: "Font Awesome 6 Free";
+}
+.menu2{
+    background-color: transparent;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.box{
+    color: black;
+    font-family: 'Titillium Web', sans-serif;
+    padding: 15px;
+    font-size: 15px;
+    border-radius: 15px;
+    background-color: white;
+    width: 250px;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+
+
+
+
+#amazonia{
+    background-image: url("../img/amazonia.jpeg");
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#amazonia h1{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 130px;
+    letter-spacing: 0.5em;
+}
+
+#caatinga{
+    background-image: url("../img/caatinga.jpg");
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#caatinga h1{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 130px;
+    letter-spacing: 0.5em;
+}
+
+#cerrado{
+    background-image: url("../img/cerrado.jpeg");
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#cerrado h1{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 130px;
+    letter-spacing: 0.5em;
+}
+
+#atlantica{
+    background-image: url("../img/atlantica.jpg");
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#atlantica h1{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 130px;
+    letter-spacing: 0.5em;
+}
+#pampa{
+    background-image: url("../img/pampa.png");
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#pampa h1{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 130px;
+    letter-spacing: 0.5em;
+}
+
+#pantanal{
+    background-image: url("../img/pantanal.jpeg");
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#pantanal h1{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 130px;
+    letter-spacing: 0.5em;
+}
+
+
+
+
+
+
+
