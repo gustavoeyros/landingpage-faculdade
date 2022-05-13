@@ -4,7 +4,7 @@
 
 # <b>Site</b>
 ## Tela Inicial
-<img src="img/telainicial.png">
+<img src="img/telaprincipal.png">
 
 
 
